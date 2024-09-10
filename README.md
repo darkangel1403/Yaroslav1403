@@ -1,11 +1,13 @@
-## Hi there 👋
+# Привет, я Ярослав! 👋
 
-<!--
-**Yaroslav1403/Yaroslav1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе:
+- 🎓 Студент Минского государственного колледжа цифровых технологий
+- 💻 Изучаю C++,C#,JavaScript,Python и другое...
+- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning C++,C#,JavaScript and more...
-- 👯 I’m looking to collaborate on Valve
-- 😄 Pronouns: man
-- ⚡ Fun fact: play CS2
--->
+## Мои навыки:
+- Python
+- Git
+
+## Связаться со мной:
+- yariklatyshev140308@gmail.com
